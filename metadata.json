@@ -1,0 +1,5 @@
+{
+  "name": "ToonMotion",
+  "description": "Generate APNG animated stickers from static cartoon character images using AI video generation.",
+  "requestFramePermissions": []
+}
